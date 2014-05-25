@@ -1,7 +1,7 @@
 Tidy Data Assignment
 ====================
 
-All data manipulations and processing steps are contained in a single, annotated R script accompanying this file names **"run_analysis.R"**.
+All data manipulations and processing steps are contained in a single, annotated R script accompanying this file named **"run_analysis.R"**.
 
 The script is to be run from a working directory containing the unzipped **"UCI HAR Dataset"** folder. For the script to run properly, the "UCI HAR Dataset"" folder should be left exactly as provided by the authors.
 
